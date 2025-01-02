@@ -18,9 +18,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefchlendi&show_icons=true&locale=en&theme=dark" alt="youssefchlendi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefchlendi&theme=dark" alt="youssefchlendi" /></p>
-     <img alt="mohmaed" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=youssefchlendi"/>
-     <img alt="mohamed"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=youssefchlendi&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMahmoud101&theme=dark" alt="WalidMahmoud101" /></p>
+     <img alt="mohmaed" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WalidMahmoud101"/>
+     <img alt="walid"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WalidMahmoud101&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
      <img alt="t" style='background-color:white' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=youssefchlendi&style=padding:2rem;background-color:lightgrey"/>
 
 
