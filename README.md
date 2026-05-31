@@ -1,6 +1,6 @@
 <div align="center">
 
-# Walid Mahmoud CHLENDI
+# Walid Mahmoud | DOZZY $$$
 
 **Pentester · Developer · Bug Hunter**
 
@@ -21,9 +21,8 @@ I'm a cybersecurity enthusiast and developer with a strong focus on penetration 
 
 - 🔐 Interested in **penetration testing**, **bug bounty**, and **web security**
 - 💻 Building with **JavaScript**, **PHP**, **Java**, **C**, **C#**, **Python** and more
-- 📱 Experience with **Flutter**, **Android**, **Ionic**, and cross-platform mobile development
 - 🌱 Currently focused on **open source projects** and expanding my security skill set
-- 💬 Reach me on **[Telegram](https://t.me/WMahmoud101)** or **Discord:** `dozzy2400`
+- 💬 Reach me on **[Telegram](https://t.me/Dozzy101x2)** or **Discord:** `dozzy2400`
 
 ---
 
