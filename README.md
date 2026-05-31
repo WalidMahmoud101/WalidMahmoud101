@@ -1,5 +1,9 @@
 <div align="center">
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](CODEPULZEBanner.png)
+[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://golden9ine.com)
+
 # Walid Mahmoud | DOZZY $$$
 
 **Pentester · Developer · Bug Hunter**
