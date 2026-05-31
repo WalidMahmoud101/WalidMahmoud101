@@ -1,8 +1,5 @@
 <div align="center">
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-![](CODEPULZEBanner.png)
-[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://golden9ine.com)
 
 # Walid Mahmoud | DOZZY $$$
 
@@ -14,7 +11,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/WMahmoud101)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/WalidMahmoud101)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/walid_magic12)
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](CODEPULZEBanner.png)
+[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://golden9ine.com)
 </div>
 
 ---
